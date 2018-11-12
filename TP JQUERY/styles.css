@@ -1,0 +1,30 @@
+body{
+   	max-height:100%;
+   	}
+#controls
+    {
+      width : 100%;
+    }
+#showliste
+    {
+      width : 20%;
+      height : 80%;
+      float:left;
+      overflow: auto;
+    }
+#showstop
+    {
+      width : 79%;
+      max-height : 80%;
+      float:right;
+    }
+
+#mapLigne{
+      height: 100%;
+      width : 79%;
+      float:right;
+    }
+
+body,html{
+      height: 100%;
+    }
